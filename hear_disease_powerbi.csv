@@ -1,0 +1,304 @@
+age,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,Gender,Heart_disease
+63,Typical Angina,145,233,Fbs,left ventricular hypertrophy,150,0,2.3,downsloping,0 vessel,fixed defect,Male,Absent
+67,Asymptomatic,160,286,No Fbs,left ventricular hypertrophy,108,1,1.5,flat,3 vessel,normal,Male,Present
+67,Asymptomatic,120,229,No Fbs,left ventricular hypertrophy,129,1,2.6,flat,2 vessel,reversable defect,Male,Present
+37,Non-anginal pain,130,250,No Fbs,Normal,187,0,3.5,downsloping,0 vessel,normal,Male,Absent
+41,Atypical Angina,130,204,No Fbs,left ventricular hypertrophy,172,0,1.4,Upsloping,0 vessel,normal,Female,Absent
+56,Atypical Angina,120,236,No Fbs,Normal,178,0,0.8,Upsloping,0 vessel,normal,Male,Absent
+62,Asymptomatic,140,268,No Fbs,left ventricular hypertrophy,160,0,3.6,downsloping,2 vessel,normal,Female,Present
+57,Asymptomatic,120,353,No Fbs,Normal,163,1,0.6,Upsloping,0 vessel,normal,Female,Absent
+63,Asymptomatic,130,254,No Fbs,left ventricular hypertrophy,147,0,1.4,flat,1 vessel,reversable defect,Male,Present
+53,Asymptomatic,140,203,Fbs,left ventricular hypertrophy,155,1,3.1,downsloping,0 vessel,reversable defect,Male,Present
+57,Asymptomatic,140,192,No Fbs,Normal,148,0,0.4,flat,0 vessel,fixed defect,Male,Absent
+56,Atypical Angina,140,294,No Fbs,left ventricular hypertrophy,153,0,1.3,flat,0 vessel,normal,Female,Absent
+56,Non-anginal pain,130,256,Fbs,left ventricular hypertrophy,142,1,0.6,flat,1 vessel,fixed defect,Male,Present
+44,Atypical Angina,120,263,No Fbs,Normal,173,0,0.0,Upsloping,0 vessel,reversable defect,Male,Absent
+52,Non-anginal pain,170,199,Fbs,Normal,162,0,0.5,Upsloping,0 vessel,reversable defect,Male,Absent
+57,Non-anginal pain,150,168,No Fbs,Normal,174,0,1.6,Upsloping,0 vessel,normal,Male,Absent
+48,Atypical Angina,110,229,No Fbs,Normal,168,0,1.0,downsloping,0 vessel,reversable defect,Male,Present
+54,Asymptomatic,140,239,No Fbs,Normal,160,0,1.2,Upsloping,0 vessel,normal,Male,Absent
+48,Non-anginal pain,130,275,No Fbs,Normal,139,0,0.2,Upsloping,0 vessel,normal,Female,Absent
+49,Atypical Angina,130,266,No Fbs,Normal,171,0,0.6,Upsloping,0 vessel,normal,Male,Absent
+64,Typical Angina,110,211,No Fbs,left ventricular hypertrophy,144,1,1.8,flat,0 vessel,normal,Male,Absent
+58,Typical Angina,150,283,Fbs,left ventricular hypertrophy,162,0,1.0,Upsloping,0 vessel,normal,Female,Absent
+58,Atypical Angina,120,284,No Fbs,left ventricular hypertrophy,160,0,1.8,flat,0 vessel,normal,Male,Present
+58,Non-anginal pain,132,224,No Fbs,left ventricular hypertrophy,173,0,3.2,Upsloping,2 vessel,reversable defect,Male,Present
+60,Asymptomatic,130,206,No Fbs,left ventricular hypertrophy,132,1,2.4,flat,2 vessel,reversable defect,Male,Present
+50,Non-anginal pain,120,219,No Fbs,Normal,158,0,1.6,flat,0 vessel,normal,Female,Absent
+58,Non-anginal pain,120,340,No Fbs,Normal,172,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+66,Typical Angina,150,226,No Fbs,Normal,114,0,2.6,downsloping,0 vessel,normal,Female,Absent
+43,Asymptomatic,150,247,No Fbs,Normal,171,0,1.5,Upsloping,0 vessel,normal,Male,Absent
+40,Asymptomatic,110,167,No Fbs,left ventricular hypertrophy,114,1,2.0,flat,0 vessel,reversable defect,Male,Present
+69,Typical Angina,140,239,No Fbs,Normal,151,0,1.8,Upsloping,2 vessel,normal,Female,Absent
+60,Asymptomatic,117,230,Fbs,Normal,160,1,1.4,Upsloping,2 vessel,reversable defect,Male,Present
+64,Non-anginal pain,140,335,No Fbs,Normal,158,0,0.0,Upsloping,0 vessel,normal,Male,Present
+59,Asymptomatic,135,234,No Fbs,Normal,161,0,0.5,flat,0 vessel,reversable defect,Male,Absent
+44,Non-anginal pain,130,233,No Fbs,Normal,179,1,0.4,Upsloping,0 vessel,normal,Male,Absent
+42,Asymptomatic,140,226,No Fbs,Normal,178,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+43,Asymptomatic,120,177,No Fbs,left ventricular hypertrophy,120,1,2.5,flat,0 vessel,reversable defect,Male,Present
+57,Asymptomatic,150,276,No Fbs,left ventricular hypertrophy,112,1,0.6,flat,1 vessel,fixed defect,Male,Present
+55,Asymptomatic,132,353,No Fbs,Normal,132,1,1.2,flat,1 vessel,reversable defect,Male,Present
+61,Non-anginal pain,150,243,Fbs,Normal,137,1,1.0,flat,0 vessel,normal,Male,Absent
+65,Asymptomatic,150,225,No Fbs,left ventricular hypertrophy,114,0,1.0,flat,3 vessel,reversable defect,Female,Present
+40,Typical Angina,140,199,No Fbs,Normal,178,1,1.4,Upsloping,0 vessel,reversable defect,Male,Absent
+71,Atypical Angina,160,302,No Fbs,Normal,162,0,0.4,Upsloping,2 vessel,normal,Female,Absent
+59,Non-anginal pain,150,212,Fbs,Normal,157,0,1.6,Upsloping,0 vessel,normal,Male,Absent
+61,Asymptomatic,130,330,No Fbs,left ventricular hypertrophy,169,0,0.0,Upsloping,0 vessel,normal,Female,Present
+58,Non-anginal pain,112,230,No Fbs,left ventricular hypertrophy,165,0,2.5,flat,1 vessel,reversable defect,Male,Present
+51,Non-anginal pain,110,175,No Fbs,Normal,123,0,0.6,Upsloping,0 vessel,normal,Male,Absent
+50,Asymptomatic,150,243,No Fbs,left ventricular hypertrophy,128,0,2.6,flat,0 vessel,reversable defect,Male,Present
+65,Non-anginal pain,140,353,Fbs,left ventricular hypertrophy,157,0,0.8,Upsloping,1 vessel,normal,Female,Absent
+53,Non-anginal pain,130,197,Fbs,left ventricular hypertrophy,152,0,1.2,downsloping,0 vessel,normal,Male,Absent
+41,Atypical Angina,105,198,No Fbs,Normal,168,0,0.0,Upsloping,1 vessel,normal,Female,Absent
+65,Asymptomatic,120,177,No Fbs,Normal,140,0,0.4,Upsloping,0 vessel,reversable defect,Male,Absent
+44,Asymptomatic,112,290,No Fbs,left ventricular hypertrophy,153,0,0.0,Upsloping,1 vessel,normal,Male,Present
+44,Atypical Angina,130,219,No Fbs,left ventricular hypertrophy,188,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+60,Asymptomatic,130,253,No Fbs,Normal,144,1,1.4,Upsloping,1 vessel,reversable defect,Male,Present
+54,Asymptomatic,124,266,No Fbs,left ventricular hypertrophy,109,1,2.2,flat,1 vessel,reversable defect,Male,Present
+50,Non-anginal pain,140,233,No Fbs,Normal,163,0,0.6,flat,1 vessel,reversable defect,Male,Present
+41,Asymptomatic,110,172,No Fbs,left ventricular hypertrophy,158,0,0.0,Upsloping,0 vessel,reversable defect,Male,Present
+54,Non-anginal pain,125,273,No Fbs,left ventricular hypertrophy,152,0,0.5,downsloping,1 vessel,normal,Male,Absent
+51,Typical Angina,125,213,No Fbs,left ventricular hypertrophy,125,1,1.4,Upsloping,1 vessel,normal,Male,Absent
+51,Asymptomatic,130,305,No Fbs,Normal,142,1,1.2,flat,0 vessel,reversable defect,Female,Present
+46,Non-anginal pain,142,177,No Fbs,left ventricular hypertrophy,160,1,1.4,downsloping,0 vessel,normal,Female,Absent
+58,Asymptomatic,128,216,No Fbs,left ventricular hypertrophy,131,1,2.2,flat,3 vessel,reversable defect,Male,Present
+54,Non-anginal pain,135,304,Fbs,Normal,170,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+54,Asymptomatic,120,188,No Fbs,Normal,113,0,1.4,flat,1 vessel,reversable defect,Male,Present
+60,Asymptomatic,145,282,No Fbs,left ventricular hypertrophy,142,1,2.8,flat,2 vessel,reversable defect,Male,Present
+60,Non-anginal pain,140,185,No Fbs,left ventricular hypertrophy,155,0,3.0,flat,0 vessel,normal,Male,Present
+54,Non-anginal pain,150,232,No Fbs,left ventricular hypertrophy,165,0,1.6,Upsloping,0 vessel,reversable defect,Male,Absent
+59,Asymptomatic,170,326,No Fbs,left ventricular hypertrophy,140,1,3.4,downsloping,0 vessel,reversable defect,Male,Present
+46,Non-anginal pain,150,231,No Fbs,Normal,147,0,3.6,flat,0 vessel,normal,Male,Present
+65,Non-anginal pain,155,269,No Fbs,Normal,148,0,0.8,Upsloping,0 vessel,normal,Female,Absent
+67,Asymptomatic,125,254,Fbs,Normal,163,0,0.2,flat,2 vessel,reversable defect,Male,Present
+62,Asymptomatic,120,267,No Fbs,Normal,99,1,1.8,flat,2 vessel,reversable defect,Male,Present
+65,Asymptomatic,110,248,No Fbs,left ventricular hypertrophy,158,0,0.6,Upsloping,2 vessel,fixed defect,Male,Present
+44,Asymptomatic,110,197,No Fbs,left ventricular hypertrophy,177,0,0.0,Upsloping,1 vessel,normal,Male,Present
+65,Non-anginal pain,160,353,No Fbs,left ventricular hypertrophy,151,0,0.8,Upsloping,0 vessel,normal,Female,Absent
+60,Asymptomatic,125,258,No Fbs,left ventricular hypertrophy,141,1,2.8,flat,1 vessel,reversable defect,Male,Present
+51,Non-anginal pain,140,308,No Fbs,left ventricular hypertrophy,142,0,1.5,Upsloping,1 vessel,normal,Female,Absent
+48,Atypical Angina,130,245,No Fbs,left ventricular hypertrophy,180,0,0.2,flat,0 vessel,normal,Male,Absent
+58,Asymptomatic,150,270,No Fbs,left ventricular hypertrophy,111,1,0.8,Upsloping,0 vessel,reversable defect,Male,Present
+45,Asymptomatic,104,208,No Fbs,left ventricular hypertrophy,148,1,3.0,flat,0 vessel,normal,Male,Absent
+53,Asymptomatic,130,264,No Fbs,left ventricular hypertrophy,143,0,0.4,flat,0 vessel,normal,Female,Absent
+39,Non-anginal pain,140,321,No Fbs,left ventricular hypertrophy,182,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+68,Non-anginal pain,170,274,Fbs,left ventricular hypertrophy,150,1,1.6,flat,0 vessel,reversable defect,Male,Present
+52,Atypical Angina,120,325,No Fbs,Normal,172,0,0.2,Upsloping,0 vessel,normal,Male,Absent
+44,Non-anginal pain,140,235,No Fbs,left ventricular hypertrophy,180,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+47,Non-anginal pain,138,257,No Fbs,left ventricular hypertrophy,156,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+53,Non-anginal pain,128,216,No Fbs,left ventricular hypertrophy,115,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+53,Asymptomatic,138,234,No Fbs,left ventricular hypertrophy,160,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+51,Non-anginal pain,130,256,No Fbs,left ventricular hypertrophy,149,0,0.5,Upsloping,0 vessel,normal,Female,Absent
+66,Asymptomatic,120,302,No Fbs,left ventricular hypertrophy,151,0,0.4,flat,0 vessel,normal,Male,Absent
+62,Asymptomatic,160,164,No Fbs,left ventricular hypertrophy,145,0,4.0,downsloping,3 vessel,reversable defect,Female,Present
+62,Non-anginal pain,130,231,No Fbs,Normal,146,0,1.8,flat,3 vessel,reversable defect,Male,Absent
+44,Non-anginal pain,108,141,No Fbs,Normal,175,0,0.6,flat,0 vessel,normal,Female,Absent
+63,Non-anginal pain,135,252,No Fbs,left ventricular hypertrophy,172,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+52,Asymptomatic,128,255,No Fbs,Normal,161,1,0.0,Upsloping,1 vessel,reversable defect,Male,Present
+59,Asymptomatic,110,239,No Fbs,left ventricular hypertrophy,142,1,1.2,flat,1 vessel,reversable defect,Male,Present
+60,Asymptomatic,150,258,No Fbs,left ventricular hypertrophy,157,0,2.6,flat,2 vessel,reversable defect,Female,Present
+52,Atypical Angina,134,201,No Fbs,Normal,158,0,0.8,Upsloping,1 vessel,normal,Male,Absent
+48,Asymptomatic,122,222,No Fbs,left ventricular hypertrophy,186,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+45,Asymptomatic,115,260,No Fbs,left ventricular hypertrophy,185,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+34,Typical Angina,118,182,No Fbs,left ventricular hypertrophy,174,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+57,Asymptomatic,128,303,No Fbs,left ventricular hypertrophy,159,0,0.0,Upsloping,1 vessel,normal,Female,Absent
+71,Non-anginal pain,110,265,Fbs,left ventricular hypertrophy,130,0,0.0,Upsloping,1 vessel,normal,Female,Absent
+49,Non-anginal pain,120,188,No Fbs,Normal,139,0,2.0,flat,3 vessel,reversable defect,Male,Present
+54,Atypical Angina,108,309,No Fbs,Normal,156,0,0.0,Upsloping,0 vessel,reversable defect,Male,Absent
+59,Asymptomatic,140,177,No Fbs,Normal,162,1,0.0,Upsloping,1 vessel,reversable defect,Male,Present
+57,Non-anginal pain,128,229,No Fbs,left ventricular hypertrophy,150,0,0.4,flat,1 vessel,reversable defect,Male,Present
+61,Asymptomatic,120,260,No Fbs,Normal,140,1,3.6,flat,1 vessel,reversable defect,Male,Present
+39,Asymptomatic,118,219,No Fbs,Normal,140,0,1.2,flat,0 vessel,reversable defect,Male,Present
+61,Asymptomatic,145,307,No Fbs,left ventricular hypertrophy,146,1,1.0,flat,0 vessel,reversable defect,Female,Present
+56,Asymptomatic,125,249,Fbs,left ventricular hypertrophy,144,1,1.2,flat,1 vessel,normal,Male,Present
+52,Typical Angina,118,186,No Fbs,left ventricular hypertrophy,190,0,0.0,flat,0 vessel,fixed defect,Male,Absent
+43,Asymptomatic,132,341,Fbs,left ventricular hypertrophy,136,1,3.0,flat,0 vessel,reversable defect,Female,Present
+62,Non-anginal pain,130,263,No Fbs,Normal,97,0,1.2,flat,1 vessel,reversable defect,Female,Present
+41,Atypical Angina,135,203,No Fbs,Normal,132,0,0.0,flat,0 vessel,fixed defect,Male,Absent
+58,Non-anginal pain,140,211,Fbs,left ventricular hypertrophy,165,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+35,Asymptomatic,138,183,No Fbs,Normal,182,0,1.4,Upsloping,0 vessel,normal,Female,Absent
+63,Asymptomatic,130,330,Fbs,left ventricular hypertrophy,132,1,1.8,Upsloping,3 vessel,reversable defect,Male,Present
+65,Asymptomatic,135,254,No Fbs,left ventricular hypertrophy,127,0,2.8,flat,1 vessel,reversable defect,Male,Present
+48,Asymptomatic,130,256,Fbs,left ventricular hypertrophy,150,1,0.0,Upsloping,2 vessel,reversable defect,Male,Present
+63,Asymptomatic,150,353,No Fbs,left ventricular hypertrophy,154,0,4.0,flat,3 vessel,reversable defect,Female,Present
+51,Non-anginal pain,100,222,No Fbs,Normal,143,1,1.2,flat,0 vessel,normal,Male,Absent
+55,Asymptomatic,140,217,No Fbs,Normal,111,1,4.0,downsloping,0 vessel,reversable defect,Male,Present
+65,Typical Angina,138,282,Fbs,left ventricular hypertrophy,174,0,1.4,flat,1 vessel,normal,Male,Present
+45,Atypical Angina,130,234,No Fbs,left ventricular hypertrophy,175,0,0.6,flat,0 vessel,normal,Female,Absent
+56,Asymptomatic,170,288,Fbs,left ventricular hypertrophy,133,1,4.0,downsloping,2 vessel,reversable defect,Female,Present
+54,Asymptomatic,110,239,No Fbs,Normal,126,1,2.8,flat,1 vessel,reversable defect,Male,Present
+44,Atypical Angina,120,220,No Fbs,Normal,170,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+62,Asymptomatic,124,209,No Fbs,Normal,163,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+54,Non-anginal pain,120,258,No Fbs,left ventricular hypertrophy,147,0,0.4,flat,0 vessel,reversable defect,Male,Absent
+51,Non-anginal pain,94,227,No Fbs,Normal,154,1,0.0,Upsloping,1 vessel,reversable defect,Male,Absent
+29,Atypical Angina,130,204,No Fbs,left ventricular hypertrophy,202,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+51,Asymptomatic,140,261,No Fbs,left ventricular hypertrophy,186,1,0.0,Upsloping,0 vessel,normal,Male,Absent
+43,Non-anginal pain,122,213,No Fbs,Normal,165,0,0.2,flat,0 vessel,normal,Female,Absent
+55,Atypical Angina,135,250,No Fbs,left ventricular hypertrophy,161,0,1.4,flat,0 vessel,normal,Female,Absent
+70,Asymptomatic,145,174,No Fbs,Normal,125,1,2.6,downsloping,0 vessel,reversable defect,Male,Present
+62,Atypical Angina,120,281,No Fbs,left ventricular hypertrophy,103,0,1.4,flat,1 vessel,reversable defect,Male,Present
+35,Asymptomatic,120,198,No Fbs,Normal,130,1,1.6,flat,0 vessel,reversable defect,Male,Present
+51,Non-anginal pain,125,245,Fbs,left ventricular hypertrophy,166,0,2.4,flat,0 vessel,normal,Male,Absent
+59,Atypical Angina,140,221,No Fbs,Normal,164,1,0.0,Upsloping,0 vessel,normal,Male,Absent
+59,Typical Angina,170,288,No Fbs,left ventricular hypertrophy,159,0,0.2,flat,0 vessel,reversable defect,Male,Present
+52,Atypical Angina,128,205,Fbs,Normal,184,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+64,Non-anginal pain,125,309,No Fbs,Normal,131,1,1.8,flat,0 vessel,reversable defect,Male,Present
+58,Non-anginal pain,105,240,No Fbs,left ventricular hypertrophy,154,1,0.6,flat,0 vessel,reversable defect,Male,Absent
+47,Non-anginal pain,108,243,No Fbs,Normal,152,0,0.0,Upsloping,0 vessel,normal,Male,Present
+57,Asymptomatic,165,289,Fbs,left ventricular hypertrophy,124,0,1.0,flat,3 vessel,reversable defect,Male,Present
+41,Non-anginal pain,112,250,No Fbs,Normal,179,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+45,Atypical Angina,128,308,No Fbs,left ventricular hypertrophy,170,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+60,Non-anginal pain,102,318,No Fbs,Normal,160,0,0.0,Upsloping,1 vessel,normal,Female,Absent
+52,Typical Angina,152,298,Fbs,Normal,178,0,1.2,flat,0 vessel,reversable defect,Male,Absent
+42,Asymptomatic,102,265,No Fbs,left ventricular hypertrophy,122,0,0.6,flat,0 vessel,normal,Female,Absent
+67,Non-anginal pain,115,353,No Fbs,left ventricular hypertrophy,160,0,1.6,flat,0 vessel,reversable defect,Female,Absent
+55,Asymptomatic,160,289,No Fbs,left ventricular hypertrophy,145,1,0.8,flat,1 vessel,reversable defect,Male,Present
+64,Asymptomatic,120,246,No Fbs,left ventricular hypertrophy,96,1,2.2,downsloping,1 vessel,normal,Male,Present
+70,Asymptomatic,130,322,No Fbs,left ventricular hypertrophy,109,0,2.4,flat,3 vessel,normal,Male,Present
+51,Asymptomatic,140,299,No Fbs,Normal,173,1,1.6,Upsloping,0 vessel,reversable defect,Male,Present
+58,Asymptomatic,125,300,No Fbs,left ventricular hypertrophy,171,0,0.0,Upsloping,2 vessel,reversable defect,Male,Present
+60,Asymptomatic,140,293,No Fbs,left ventricular hypertrophy,170,0,1.2,flat,2 vessel,reversable defect,Male,Present
+68,Non-anginal pain,118,277,No Fbs,Normal,151,0,1.0,Upsloping,1 vessel,reversable defect,Male,Absent
+46,Atypical Angina,101,197,Fbs,Normal,156,0,0.0,Upsloping,0 vessel,reversable defect,Male,Absent
+77,Asymptomatic,125,304,No Fbs,left ventricular hypertrophy,162,1,0.0,Upsloping,3 vessel,normal,Male,Present
+54,Non-anginal pain,110,214,No Fbs,Normal,158,0,1.6,flat,0 vessel,normal,Female,Absent
+58,Asymptomatic,100,248,No Fbs,left ventricular hypertrophy,122,0,1.0,flat,0 vessel,normal,Female,Absent
+48,Non-anginal pain,124,255,Fbs,Normal,175,0,0.0,Upsloping,2 vessel,normal,Male,Absent
+57,Asymptomatic,132,207,No Fbs,Normal,168,1,0.0,Upsloping,0 vessel,reversable defect,Male,Absent
+52,Non-anginal pain,138,223,No Fbs,Normal,169,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+54,Atypical Angina,132,288,Fbs,left ventricular hypertrophy,159,1,0.0,Upsloping,1 vessel,normal,Female,Absent
+35,Asymptomatic,126,282,No Fbs,left ventricular hypertrophy,156,1,0.0,Upsloping,0 vessel,reversable defect,Male,Present
+45,Atypical Angina,112,160,No Fbs,Normal,138,0,0.0,flat,0 vessel,normal,Female,Absent
+70,Non-anginal pain,160,269,No Fbs,Normal,112,1,2.9,flat,1 vessel,reversable defect,Male,Present
+53,Asymptomatic,142,226,No Fbs,left ventricular hypertrophy,111,1,0.0,Upsloping,0 vessel,reversable defect,Male,Absent
+59,Asymptomatic,170,249,No Fbs,Normal,143,1,0.0,flat,0 vessel,normal,Female,Present
+62,Asymptomatic,140,353,No Fbs,left ventricular hypertrophy,157,0,1.2,flat,0 vessel,normal,Female,Absent
+64,Asymptomatic,145,212,No Fbs,left ventricular hypertrophy,132,0,2.0,flat,2 vessel,fixed defect,Male,Present
+57,Asymptomatic,152,274,No Fbs,Normal,88,1,1.2,flat,1 vessel,reversable defect,Male,Present
+52,Asymptomatic,108,233,Fbs,Normal,147,0,0.1,Upsloping,3 vessel,reversable defect,Male,Absent
+56,Asymptomatic,132,184,No Fbs,left ventricular hypertrophy,105,1,2.1,flat,1 vessel,fixed defect,Male,Present
+43,Non-anginal pain,130,315,No Fbs,Normal,162,0,1.9,Upsloping,1 vessel,normal,Male,Absent
+53,Non-anginal pain,130,246,Fbs,left ventricular hypertrophy,173,0,0.0,Upsloping,3 vessel,normal,Male,Absent
+48,Asymptomatic,124,274,No Fbs,left ventricular hypertrophy,166,0,0.5,flat,0 vessel,reversable defect,Male,Present
+56,Asymptomatic,134,353,No Fbs,left ventricular hypertrophy,150,1,1.9,flat,2 vessel,reversable defect,Female,Present
+42,Typical Angina,148,244,No Fbs,left ventricular hypertrophy,178,0,0.8,Upsloping,2 vessel,normal,Male,Absent
+59,Typical Angina,170,270,No Fbs,left ventricular hypertrophy,145,0,4.0,downsloping,0 vessel,reversable defect,Male,Absent
+60,Asymptomatic,158,305,No Fbs,left ventricular hypertrophy,161,0,0.0,Upsloping,0 vessel,normal,Female,Present
+63,Atypical Angina,140,195,No Fbs,Normal,179,0,0.0,Upsloping,2 vessel,normal,Female,Absent
+42,Non-anginal pain,120,240,Fbs,Normal,194,0,0.8,downsloping,0 vessel,reversable defect,Male,Absent
+66,Atypical Angina,160,246,No Fbs,Normal,120,1,0.0,flat,3 vessel,fixed defect,Male,Present
+54,Atypical Angina,170,283,No Fbs,left ventricular hypertrophy,195,0,0.0,Upsloping,1 vessel,reversable defect,Male,Present
+69,Non-anginal pain,140,254,No Fbs,left ventricular hypertrophy,146,0,2.0,flat,3 vessel,reversable defect,Male,Present
+50,Non-anginal pain,129,196,No Fbs,Normal,163,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+51,Asymptomatic,140,298,No Fbs,Normal,122,1,4.0,flat,3 vessel,reversable defect,Male,Present
+43,Asymptomatic,132,247,Fbs,left ventricular hypertrophy,143,1,0.1,flat,0 vessel,reversable defect,Male,Present
+62,Asymptomatic,138,294,Fbs,Normal,106,0,1.9,flat,3 vessel,normal,Female,Present
+68,Non-anginal pain,120,211,No Fbs,left ventricular hypertrophy,115,0,1.5,flat,0 vessel,normal,Female,Absent
+67,Asymptomatic,100,299,No Fbs,left ventricular hypertrophy,125,1,0.9,flat,2 vessel,normal,Male,Present
+69,Typical Angina,160,234,Fbs,left ventricular hypertrophy,131,0,0.1,flat,1 vessel,normal,Male,Absent
+45,Asymptomatic,138,236,No Fbs,left ventricular hypertrophy,152,1,0.2,flat,0 vessel,normal,Female,Absent
+50,Atypical Angina,120,244,No Fbs,Normal,162,0,1.1,Upsloping,0 vessel,normal,Female,Absent
+59,Typical Angina,160,273,No Fbs,left ventricular hypertrophy,125,0,0.0,Upsloping,0 vessel,normal,Male,Present
+50,Asymptomatic,110,254,No Fbs,left ventricular hypertrophy,159,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+64,Asymptomatic,170,325,No Fbs,Normal,154,1,0.0,Upsloping,0 vessel,normal,Female,Absent
+57,Non-anginal pain,150,126,Fbs,Normal,173,0,0.2,Upsloping,1 vessel,reversable defect,Male,Absent
+64,Non-anginal pain,140,313,No Fbs,Normal,133,0,0.2,Upsloping,0 vessel,reversable defect,Female,Absent
+43,Asymptomatic,110,211,No Fbs,Normal,161,0,0.0,Upsloping,0 vessel,reversable defect,Male,Absent
+45,Asymptomatic,142,309,No Fbs,left ventricular hypertrophy,147,1,0.0,flat,3 vessel,reversable defect,Male,Present
+58,Asymptomatic,128,259,No Fbs,left ventricular hypertrophy,130,1,3.0,flat,2 vessel,reversable defect,Male,Present
+50,Asymptomatic,144,200,No Fbs,left ventricular hypertrophy,126,1,0.9,flat,0 vessel,reversable defect,Male,Present
+55,Atypical Angina,130,262,No Fbs,Normal,155,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+62,Asymptomatic,150,244,No Fbs,Normal,154,1,1.4,flat,0 vessel,normal,Female,Present
+37,Non-anginal pain,120,215,No Fbs,Normal,170,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+38,Typical Angina,120,231,No Fbs,Normal,182,1,3.8,flat,0 vessel,reversable defect,Male,Present
+41,Non-anginal pain,130,214,No Fbs,left ventricular hypertrophy,168,0,2.0,flat,0 vessel,normal,Male,Absent
+66,Asymptomatic,170,228,Fbs,Normal,165,1,1.0,flat,2 vessel,reversable defect,Female,Present
+52,Asymptomatic,112,230,No Fbs,Normal,160,0,0.0,Upsloping,1 vessel,normal,Male,Present
+56,Typical Angina,120,193,No Fbs,left ventricular hypertrophy,162,0,1.9,flat,0 vessel,reversable defect,Male,Absent
+46,Atypical Angina,105,204,No Fbs,Normal,172,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+46,Asymptomatic,138,243,No Fbs,left ventricular hypertrophy,152,1,0.0,flat,0 vessel,normal,Female,Absent
+64,Asymptomatic,130,303,No Fbs,Normal,122,0,2.0,flat,2 vessel,normal,Female,Absent
+59,Asymptomatic,138,271,No Fbs,left ventricular hypertrophy,182,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+41,Non-anginal pain,112,268,No Fbs,left ventricular hypertrophy,172,1,0.0,Upsloping,0 vessel,normal,Female,Absent
+54,Non-anginal pain,108,267,No Fbs,left ventricular hypertrophy,167,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+39,Non-anginal pain,94,199,No Fbs,Normal,179,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+53,Asymptomatic,123,282,No Fbs,Normal,95,1,2.0,flat,2 vessel,reversable defect,Male,Present
+63,Asymptomatic,108,269,No Fbs,Normal,169,1,1.8,flat,2 vessel,normal,Female,Present
+34,Atypical Angina,118,210,No Fbs,Normal,192,0,0.7,Upsloping,0 vessel,normal,Female,Absent
+47,Asymptomatic,112,204,No Fbs,Normal,143,0,0.1,Upsloping,0 vessel,normal,Male,Absent
+67,Non-anginal pain,152,277,No Fbs,Normal,172,0,0.0,Upsloping,1 vessel,normal,Female,Absent
+54,Asymptomatic,110,206,No Fbs,left ventricular hypertrophy,108,1,0.0,flat,1 vessel,normal,Male,Present
+66,Asymptomatic,112,212,No Fbs,left ventricular hypertrophy,132,1,0.1,Upsloping,1 vessel,normal,Male,Present
+52,Non-anginal pain,136,196,No Fbs,left ventricular hypertrophy,169,0,0.1,flat,0 vessel,normal,Female,Absent
+55,Asymptomatic,170,327,No Fbs,ST-T wave abnormality,117,1,3.4,flat,0 vessel,normal,Female,Present
+49,Non-anginal pain,118,149,No Fbs,left ventricular hypertrophy,126,0,0.8,Upsloping,3 vessel,normal,Male,Present
+74,Atypical Angina,120,269,No Fbs,left ventricular hypertrophy,121,1,0.2,Upsloping,1 vessel,normal,Female,Absent
+54,Non-anginal pain,160,201,No Fbs,Normal,163,0,0.0,Upsloping,1 vessel,normal,Female,Absent
+54,Asymptomatic,122,286,No Fbs,left ventricular hypertrophy,116,1,3.2,flat,2 vessel,normal,Male,Present
+56,Asymptomatic,130,283,Fbs,left ventricular hypertrophy,103,1,1.6,downsloping,0 vessel,reversable defect,Male,Present
+46,Asymptomatic,120,249,No Fbs,left ventricular hypertrophy,144,0,0.8,Upsloping,0 vessel,reversable defect,Male,Present
+49,Atypical Angina,134,271,No Fbs,Normal,162,0,0.0,flat,0 vessel,normal,Female,Absent
+42,Atypical Angina,120,295,No Fbs,Normal,162,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+41,Atypical Angina,110,235,No Fbs,Normal,153,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+41,Atypical Angina,126,306,No Fbs,Normal,163,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+49,Asymptomatic,130,269,No Fbs,Normal,163,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+61,Typical Angina,134,234,No Fbs,Normal,145,0,2.6,flat,2 vessel,normal,Male,Present
+60,Non-anginal pain,120,178,Fbs,Normal,96,0,0.0,Upsloping,0 vessel,normal,Female,Absent
+67,Asymptomatic,120,237,No Fbs,Normal,88,0,1.0,flat,0 vessel,normal,Male,Present
+58,Asymptomatic,100,234,No Fbs,Normal,156,0,0.1,Upsloping,1 vessel,reversable defect,Male,Present
+47,Asymptomatic,110,275,No Fbs,left ventricular hypertrophy,118,1,1.0,flat,1 vessel,normal,Male,Present
+52,Asymptomatic,125,212,No Fbs,Normal,168,0,1.0,Upsloping,2 vessel,reversable defect,Male,Present
+62,Atypical Angina,128,208,Fbs,left ventricular hypertrophy,140,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+57,Asymptomatic,110,201,No Fbs,Normal,126,1,1.5,flat,0 vessel,fixed defect,Male,Absent
+58,Asymptomatic,146,218,No Fbs,Normal,105,0,2.0,flat,1 vessel,reversable defect,Male,Present
+64,Asymptomatic,128,263,No Fbs,Normal,105,1,0.2,flat,1 vessel,reversable defect,Male,Absent
+51,Non-anginal pain,120,295,No Fbs,left ventricular hypertrophy,157,0,0.6,Upsloping,0 vessel,normal,Female,Absent
+43,Asymptomatic,115,303,No Fbs,Normal,181,0,1.2,flat,0 vessel,normal,Male,Absent
+42,Non-anginal pain,120,209,No Fbs,Normal,173,0,0.0,flat,0 vessel,normal,Female,Absent
+67,Asymptomatic,106,223,No Fbs,Normal,142,0,0.3,Upsloping,2 vessel,normal,Female,Absent
+76,Non-anginal pain,140,197,No Fbs,ST-T wave abnormality,116,0,1.1,flat,0 vessel,normal,Female,Absent
+70,Atypical Angina,156,245,No Fbs,left ventricular hypertrophy,143,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+57,Atypical Angina,124,261,No Fbs,Normal,141,0,0.3,Upsloping,0 vessel,reversable defect,Male,Present
+44,Non-anginal pain,118,242,No Fbs,Normal,149,0,0.3,flat,1 vessel,normal,Female,Absent
+58,Atypical Angina,136,319,Fbs,left ventricular hypertrophy,152,0,0.0,Upsloping,2 vessel,normal,Female,Present
+60,Typical Angina,150,240,No Fbs,Normal,171,0,0.9,Upsloping,0 vessel,normal,Female,Absent
+44,Non-anginal pain,120,226,No Fbs,Normal,169,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+61,Asymptomatic,138,166,No Fbs,left ventricular hypertrophy,125,1,3.6,flat,1 vessel,normal,Male,Present
+42,Asymptomatic,136,315,No Fbs,Normal,125,1,1.8,flat,0 vessel,fixed defect,Male,Present
+52,Asymptomatic,128,204,Fbs,Normal,156,1,1.0,flat,0 vessel,normal,Male,Present
+59,Non-anginal pain,126,218,Fbs,Normal,134,0,2.2,flat,1 vessel,fixed defect,Male,Present
+40,Asymptomatic,152,223,No Fbs,Normal,181,0,0.0,Upsloping,0 vessel,reversable defect,Male,Present
+42,Non-anginal pain,130,180,No Fbs,Normal,150,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+61,Asymptomatic,140,207,No Fbs,left ventricular hypertrophy,138,1,1.9,Upsloping,1 vessel,reversable defect,Male,Present
+66,Asymptomatic,160,228,No Fbs,left ventricular hypertrophy,138,0,2.3,Upsloping,0 vessel,fixed defect,Male,Absent
+46,Asymptomatic,140,311,No Fbs,Normal,120,1,1.8,flat,2 vessel,reversable defect,Male,Present
+71,Asymptomatic,112,149,No Fbs,Normal,125,0,1.6,flat,0 vessel,normal,Female,Absent
+59,Typical Angina,134,204,No Fbs,Normal,162,0,0.8,Upsloping,2 vessel,normal,Male,Present
+64,Typical Angina,170,227,No Fbs,left ventricular hypertrophy,155,0,0.6,flat,0 vessel,reversable defect,Male,Absent
+66,Non-anginal pain,146,278,No Fbs,left ventricular hypertrophy,152,0,0.0,flat,1 vessel,normal,Female,Absent
+39,Non-anginal pain,138,220,No Fbs,Normal,152,0,0.0,flat,0 vessel,normal,Female,Absent
+57,Atypical Angina,154,232,No Fbs,left ventricular hypertrophy,164,0,0.0,Upsloping,1 vessel,normal,Male,Present
+58,Asymptomatic,130,197,No Fbs,Normal,131,0,0.6,flat,0 vessel,normal,Female,Absent
+57,Asymptomatic,110,335,No Fbs,Normal,143,1,3.0,flat,1 vessel,reversable defect,Male,Present
+47,Non-anginal pain,130,253,No Fbs,Normal,179,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+55,Asymptomatic,128,205,No Fbs,ST-T wave abnormality,130,1,2.0,flat,1 vessel,reversable defect,Female,Present
+35,Atypical Angina,122,192,No Fbs,Normal,174,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+61,Asymptomatic,148,203,No Fbs,Normal,161,0,0.0,Upsloping,1 vessel,reversable defect,Male,Present
+58,Asymptomatic,114,318,No Fbs,ST-T wave abnormality,140,0,4.0,downsloping,3 vessel,fixed defect,Male,Present
+58,Asymptomatic,170,225,Fbs,left ventricular hypertrophy,146,1,2.8,flat,2 vessel,fixed defect,Female,Present
+58,Atypical Angina,125,220,No Fbs,Normal,144,0,0.4,flat,0 vessel,reversable defect,Male,Absent
+56,Atypical Angina,130,221,No Fbs,left ventricular hypertrophy,163,0,0.0,Upsloping,0 vessel,reversable defect,Male,Absent
+56,Atypical Angina,120,240,No Fbs,Normal,169,0,0.0,downsloping,0 vessel,normal,Male,Absent
+67,Non-anginal pain,152,212,No Fbs,left ventricular hypertrophy,150,0,0.8,flat,0 vessel,reversable defect,Male,Present
+55,Atypical Angina,132,342,No Fbs,Normal,166,0,1.2,Upsloping,0 vessel,normal,Female,Absent
+44,Asymptomatic,120,169,No Fbs,Normal,144,1,2.8,downsloping,0 vessel,fixed defect,Male,Present
+63,Asymptomatic,140,187,No Fbs,left ventricular hypertrophy,144,1,4.0,Upsloping,2 vessel,reversable defect,Male,Present
+63,Asymptomatic,124,197,No Fbs,Normal,136,1,0.0,flat,0 vessel,normal,Female,Present
+41,Atypical Angina,120,157,No Fbs,Normal,182,0,0.0,Upsloping,0 vessel,normal,Male,Absent
+59,Asymptomatic,164,176,Fbs,left ventricular hypertrophy,90,0,1.0,flat,2 vessel,fixed defect,Male,Present
+57,Asymptomatic,140,241,No Fbs,Normal,123,1,0.2,flat,0 vessel,reversable defect,Female,Present
+45,Typical Angina,110,264,No Fbs,Normal,132,0,1.2,flat,0 vessel,reversable defect,Male,Present
+68,Asymptomatic,144,193,Fbs,Normal,141,0,3.4,flat,2 vessel,reversable defect,Male,Present
+57,Asymptomatic,130,131,No Fbs,Normal,115,1,1.2,flat,1 vessel,reversable defect,Male,Present
+57,Atypical Angina,130,236,No Fbs,left ventricular hypertrophy,174,0,0.0,flat,1 vessel,normal,Female,Present
+38,Non-anginal pain,138,175,No Fbs,Normal,173,0,0.0,Upsloping,0 vessel,normal,Male,Absent
